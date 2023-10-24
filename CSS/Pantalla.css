@@ -1,0 +1,13 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+#bloque_juego {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+body{
+    background-color: #242a1e;
+}
